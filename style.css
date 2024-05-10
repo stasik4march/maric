@@ -1,0 +1,30 @@
+body {
+    height: 100vh;  
+background-color: #91abff;
+background-color:#ffea00 ;
+}
+
+
+
+*:not(i) {
+    font-family: "SEGOE PRINT";
+    color: rgb(255, 0, 217);
+    text-align: center;
+
+}
+
+.box {
+    position: absolute;
+    -webkit-transform: translate(-50%, -50%);
+    -webkit-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    top: 50%;
+    left: 50%;
+}
+
+.wrapper {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+align-items: center;
+}
